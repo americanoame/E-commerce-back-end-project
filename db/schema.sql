@@ -1,2 +1,3 @@
-DROP DATABASE IF EXISTS eco_db;
-CREATE DATABASE eco_db;
+
+DROP DATABASE IF EXISTS ecommerce_db;
+CREATE DATABASE ecommerce_db;
