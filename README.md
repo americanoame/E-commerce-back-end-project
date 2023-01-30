@@ -4,8 +4,6 @@
 
  #### This is the E-commerce-back-end. 
  
- ![Screenshot 2023-01-29 at 11 34 56 PM](https://user-images.githubusercontent.com/77306236/215388650-3eab7e1a-91d0-4ab7-9d1d-255cc17a548c.png)
-
   ## Table of Contents
 * [Installation](#Installation)
 * [Usage](#Usage)
